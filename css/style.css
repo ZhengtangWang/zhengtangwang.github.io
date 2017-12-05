@@ -105,18 +105,13 @@ img:hover {
 
 .animation,
 .audio,
-.video {
-	width: 51%;
+.video,
+.summary {
+	width: 50%;
 	float: left;
 }
 
-.summary {
-	width: 49%;
-	float: right;
-}
-
 .footer {
-	margin-top: 50px;
 	margin-bottom: 50px;
 	text-align: center;
 }
